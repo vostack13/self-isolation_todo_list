@@ -1,0 +1,14 @@
+:root, body {
+    margin: 0;
+    height: 100%;
+}
+
+#root {
+    height: 100%;
+}
+
+#root > header,
+#root > main {
+    padding-left: 16px;
+    padding-right: 16px;
+}
